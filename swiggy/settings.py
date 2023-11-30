@@ -47,7 +47,8 @@ INSTALLED_APPS = [
 CORS_ALLOW_ALL_ORIGINS = False  # Set to True to allow all origins or False to specify allowed origins
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",  # Add the URL of your frontend
+    "http://localhost:3000",
+    "http://maggyapi-4a28cbc5c9b3.herokuapp.com"# Add the URL of your frontend
     # Add other allowed origins as needed
 ]
 
