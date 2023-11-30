@@ -48,7 +48,7 @@ CORS_ALLOW_ALL_ORIGINS = False  # Set to True to allow all origins or False to s
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "http://maggyapi-4a28cbc5c9b3.herokuapp.com"# Add the URL of your frontend
+    "https://radiant-temple-06858-73d863460dbb.herokuapp.com"# Add the URL of your frontend
     # Add other allowed origins as needed
 ]
 
