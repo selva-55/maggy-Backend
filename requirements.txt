@@ -1,0 +1,7 @@
+Django
+mysqlclient
+django-cors-headers
+uuid
+PyJWT
+djangorestframework
+djangorestframework-simplejwt
